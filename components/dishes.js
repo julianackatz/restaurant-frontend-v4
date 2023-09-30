@@ -55,7 +55,7 @@ const GET_RESTAURANT_DISHES = gql`
                 <CardImg
                   top={true}
                   style={{ height: 150, width:150 }}
-                  src={`https://shark-app-mbvzt.ondigitalocean.app${res.image.url}`}
+                  src={`https://lobster-app-5g88v.ondigitalocean.app${res.image.url}`}
                 />
                 <CardBody>
                   <CardTitle>{res.name}</CardTitle>
